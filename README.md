@@ -1,4 +1,4 @@
-# Climate-Dataset-Tutorials
+# WeatherBench Dataset Tutorial
 
 This is a guide to Weather Bench, a climate dataset that helps you understand how to use and understand climate data(sets).
 Who is this guide for: This guide is designed for those who have completed their first machine learning course.
