@@ -43,21 +43,6 @@ Some of the models and strategies explored include:
 - 📊 Autocorrelation and lag plots
 - 🧪 Train/test splitting and RMSE model evaluation
 
-Some libraries and tools used include:
-
-- Xarray
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- XGBoost
-- sktime
-- skforecast
-- statsmodels
-- NeuralProphet
-- SHAP
-
 ---
 
 ## 🌦️ What is WeatherBench?
